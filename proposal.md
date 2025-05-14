@@ -2,8 +2,11 @@
 
 ## Grupo
 ### Integrantes
-* legajo - Apellido(s), Nombre(s)
-
+* 52184 - Luraschi Zárate, Alma
+* 53236 - Alfonso, Avril Antonela
+* 52184 - Rau, Anelén
+* 52184 - Monzón, Maximiliano
+  
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
 * [backend app](http://hyperlinkToGihubOrGitlab)
@@ -11,10 +14,12 @@
 
 ## Tema
 ### Descripción
-*2 a 6 líneas describiendo el negocio (menos es más)*
+En sus batallas, los Avengers siempre dejan destrozos por distintas ciudades, hasta a veces heridos. Industrias Stark nos contrató para diseñar un sitio web que les permita a los ciudadanos solicitar distintos tipos de servicios (que ellos financian) para enmendar los daños causados. Además, los clientes podrán reseñar los servicios brindados.
+
 
 ### Modelo
-![imagen del modelo]()
+![![image](https://github.com/user-attachments/assets/0dc94887-ef72-4de8-8397-464cadb97b0b)
+]()
 
 *Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
 
