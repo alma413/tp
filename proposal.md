@@ -22,6 +22,7 @@ En sus batallas, los Avengers siempre dejan destrozos por distintas ciudades, ha
 https://drive.google.com/file/d/13IB2velebcsy1rYUaoyFeBbZxdMyXc72/view?usp=sharing
 
 
+
 ## Alcance Funcional 
 
 ### Alcance Mínimo
