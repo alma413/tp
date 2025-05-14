@@ -39,17 +39,15 @@ Regularidad:
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
-|CRUD |1. CRUD Tipo Habitacion<br>2. CRUD Servicio<br>3. CRUD Localidad<br>4. CRUD Provincia<br>5. CRUD Habitación<br>6. CRUD Empleado<br>7. CRUD Cliente|
-|CUU/Epic|1. Reservar una habitación para la estadía<br>2. Realizar el check-in de una reserva<br>3. Realizar el check-out y facturación de estadía y servicios|
+|CRUD |1. CRUD Usuario<br>2. CRUD Categoría<br>3. CRUD Localidad<br>4. CRUD Solicitud<br>5. CRUD Reseña<br>6. CRUD Cliente<br>7. CRUD Prestador<br>8. CRUD Administrador<br>9. CRUD Servicio|
+|CUU/Epic|1. El solicitante realiza una reseña<br>2. Moderador evalúa una reseña|
 
 
 ### Alcance Adicional Voluntario
 
-*Nota*: El Alcance Adicional Voluntario es opcional, pero ayuda a que la funcionalidad del sistema esté completa y será considerado en la nota en función de su complejidad y esfuerzo.
 
 |Req|Detalle|
 |:-|:-|
-|Listados |1. Estadía del día filtrado por fecha muestra, cliente, habitaciones y estado <br>2. Reservas filtradas por cliente muestra datos del cliente y de cada reserve fechas, estado cantidad de habitaciones y huespedes|
-|CUU/Epic|1. Consumir servicios<br>2. Cancelación de reserva|
-|Otros|1. Envío de recordatorio de reserva por email|
+|Listados |1. Reseñas filtradas por prestador, muestra la valoración, descripción y fecha|
+
 
