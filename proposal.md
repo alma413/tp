@@ -18,10 +18,9 @@ En sus batallas, los Avengers siempre dejan destrozos por distintas ciudades, ha
 
 
 ### Modelo
-![stark-Copia de Página-1](https://github.com/user-attachments/assets/cd7b5c59-3093-43da-99e2-06787b0bf5ca)
-(https://drive.google.com/file/d/1sDCLgRdWb_VLLz5xcSYa_Zgu5OUyw5IO/view?usp=sharing)
+![tp-dsw](https://github.com/user-attachments/assets/b502bed8-4d4e-474b-b0b8-de0038252824)
+https://drive.google.com/file/d/13IB2velebcsy1rYUaoyFeBbZxdMyXc72/view?usp=sharing
 
-*Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
 
 ## Alcance Funcional 
 
