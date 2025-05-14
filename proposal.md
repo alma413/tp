@@ -18,16 +18,14 @@ En sus batallas, los Avengers siempre dejan destrozos por distintas ciudades, ha
 
 
 ### Modelo
-![![image](https://github.com/user-attachments/assets/0dc94887-ef72-4de8-8397-464cadb97b0b)
-]()
+![image](https://github.com/user-attachments/assets/5eba8e15-4d46-49b6-a2ca-3018a19c76fb)
 
 *Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
 
 ## Alcance Funcional 
 
 ### Alcance Mínimo
-
-*Nota*: el siguiente es un ejemplo para un grupo de 3 integrantes para un sistema de hotel. El 
+ 
 
 Regularidad:
 |Req|Detalle|
