@@ -30,7 +30,7 @@ https://drive.google.com/file/d/13IB2velebcsy1rYUaoyFeBbZxdMyXc72/view?usp=shari
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Usuario<br>2. CRUD Categoría<br>3. CRUD Localidad<br>4. Crud Solicitud|
+|CRUD simple|1. CRUD Usuario<br>2. CRUD Categoría<br>3. CRUD Localidad<br>4. CRUD Solicitud|
 |CRUD dependiente|1. CRUD Solicitante {depende de} CRUD Usuario<br>2. CRUD Prestador {depende de} CRUD Usuario|
 |Listado<br>+<br>detalle| 1. Listado de prestadores filtrado por tipo de servicio, muestra descripción del prestador<br> 2. Listado de solicitudes (hehcas por un solicitante) filtrado por fecha, muestra descripción de la solicitud.
 |CUU/Epic|1. Solicitar la prestación de un servicio<br>2. Publicar un servicio|
