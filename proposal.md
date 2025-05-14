@@ -18,7 +18,7 @@ En sus batallas, los Avengers siempre dejan destrozos por distintas ciudades, ha
 
 
 ### Modelo
-![image](https://github.com/user-attachments/assets/7ee790d3-b6ee-4f77-9004-e7ab6fde3e64)
+![tp-dsw drawio (1)](https://github.com/user-attachments/assets/fd3d4084-4896-48ce-af29-a1e08f772f1f)
 https://drive.google.com/file/d/13IB2velebcsy1rYUaoyFeBbZxdMyXc72/view?usp=sharing
 
 
