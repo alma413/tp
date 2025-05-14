@@ -30,10 +30,10 @@ https://drive.google.com/file/d/13IB2velebcsy1rYUaoyFeBbZxdMyXc72/view?usp=shari
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Tipo Habitacion<br>2. CRUD Servicio<br>3. CRUD Localidad|
-|CRUD dependiente|1. CRUD Habitación {depende de} CRUD Tipo Habitacion<br>2. CRUD Cliente {depende de} CRUD Localidad|
-|Listado<br>+<br>detalle| 1. Listado de habitaciones filtrado por tipo de habitación, muestra nro y tipo de habitación => detalle CRUD Habitacion<br> 2. Listado de reservas filtrado por rango de fecha, muestra nro de habitación, fecha inicio y fin estadía, estado y nombre del cliente => detalle muestra datos completos de la reserva y del cliente|
-|CUU/Epic|1. Reservar una habitación para la estadía<br>2. Realizar el check-in de una reserva|
+|CRUD simple|1. CRUD Usuario<br>2. CRUD Categoría<br>3. CRUD Localidad<br>4. Crud Solicitud|
+|CRUD dependiente|1. CRUD Solicitante {depende de} CRUD Usuario<br>2. CRUD Prestador {depende de} CRUD Usuario|
+|Listado<br>+<br>detalle| 1. Listado de prestadores filtrado por tipo de servicio, muestra descripción del prestador<br> 2. Listado de solicitudes (hehcas por un solicitante) filtrado por fecha, muestra descripción de la solicitud.
+|CUU/Epic|1. Solicitar la prestación de un servicio<br>2. Publicar un servicio|
 
 
 Adicionales para Aprobación
