@@ -3,7 +3,7 @@
 ### Integrantes
 * 52184 - Luraschi Zárate, Alma
 * 53236 - Alfonso, Avril
-* 52184 - Rau, Anelén
+* 52879 - Rau, Anelén
 * 52184 - Monzón, Maximiliano
   
 ### Repositorios
