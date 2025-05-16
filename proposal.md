@@ -13,6 +13,7 @@
 
 ## Tema
 ### Descripción
+StartKit: Servicios de Rescate
 En sus batallas, los Avengers siempre dejan destrozos por distintas ciudades, hasta a veces heridos. Industrias Stark nos contrató para diseñar un sitio web que les permita a los ciudadanos solicitar distintos tipos de servicios (que ellos financian) para enmendar los daños causados. Además, los clientes podrán reseñar los servicios brindados.
 
 
